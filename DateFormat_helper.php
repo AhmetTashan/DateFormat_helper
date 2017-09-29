@@ -6,7 +6,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @link  https://github.com/ahmettashan
  * @since  Version 1.0.0
  *
- * Tarih gün ay yıl şekinde türkçe destiği olan function umuzdur.
+ * Zamanımız ilerliyor, çalışmalarımız için sağlıklı ve işlevsel bir yol ve PHP 
+ * için küçük bir kod parçacığı ve tarih ve saat ifadeleri sunuyoruz.
  *
  * normal = 18 Ağustos 2016 / varsayilan
  * day = 18 Ağustos, Perşembe
