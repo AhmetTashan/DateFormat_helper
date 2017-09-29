@@ -7,7 +7,7 @@ Usage
 Simple use:
 ```php
  $date = date('Y-m-d H:i:s');
- $qdate($date, normal);
+ $qdate($date, 'normal');
 ```
 
 Format
